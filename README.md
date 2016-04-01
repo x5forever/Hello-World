@@ -4,12 +4,10 @@
 ##二级标题
 这是一首简单的小情歌
 ###三级标题
-
 >引用来自x5forever  
 *If you give me a chance,I will surprise you.*
 
-  
-    [baidu](http://www.baidu.com)
+ [baidu](http://www.baidu.com)
 
 ****************************
 ###One Piece
